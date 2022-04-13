@@ -1,11 +1,11 @@
 {
-    "name": "German Jaramillo Portafolio",
-    "short_name": "German J",
+    "name": "portafolio",
+    "short_name": "portafolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Portafolio de German",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
